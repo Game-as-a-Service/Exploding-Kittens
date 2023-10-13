@@ -1,6 +1,7 @@
 # 炸彈貓 (Exploding Kittens)
 # Game Intro
 - [Intro Video](https://www.explodingkittens.com/pages/rules-kittens)
+![image](https://github.com/Game-as-a-Service/Exploding-Kittens/assets/40749393/67f6ee6b-810f-4d75-95e8-4eadf0950140)
 
 
 # My Practice Stack
